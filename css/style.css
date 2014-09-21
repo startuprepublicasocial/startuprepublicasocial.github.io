@@ -448,7 +448,7 @@ Intro
 #intro{
 	height:100%;
 	padding: 0;
-	color:#fff;
+	/*color:#fff;*/
 }
 #topSlide{
 	top:0;
