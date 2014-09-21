@@ -1891,7 +1891,12 @@ h2, .nobig {
 Smartphone 
 --------------------------------------------------------------*/
 @media only screen and  (max-width: 320px) {
-	
+	#owl-demo .item img {
+		width: 90%;
+	}
+	.logo-intro {
+		top: 100px;
+	}
 .serviseslider h3 span{
 	display:none;
 }
